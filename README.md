@@ -70,4 +70,10 @@ Here are some ideas to get you started:
     <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="GitHub" width="40" height="40" title="GitHub">
   </a>
 </p>
+<h3 align="left">My Store:</h3>
+<p align = "left">
+    <a href="https://id.shp.ee/AEdYsik">
+        <img src="https://github.com/RifkiYoga96/RifkiYoga96/blob/main/Stiker.jpg?raw=true" alt="Scurity Sensor Logo" width="100">
+    </a>
+</p>
 
