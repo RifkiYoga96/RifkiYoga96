@@ -55,7 +55,7 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" title="Html"/> 
   </a> 
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://community.appsmith.com/sites/default/files/2024-03/ms-sql-logo.jpg" alt="mssql" width="40" height="40" title ="Sql Server"/> 
+    <img src="https://qp-mrmousavi.github.io/assets/sql-server-Bqmg-TPT.png" alt="mssql" width="40" height="40" title ="Sql Server"/> 
   </a> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" title="MySql"/> 
