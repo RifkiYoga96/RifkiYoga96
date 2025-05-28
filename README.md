@@ -70,10 +70,18 @@ Here are some ideas to get you started:
     <img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="GitHub" width="40" height="40" title="GitHub">
   </a>
 </p>
-<h3 align="left">My Store:</h3>
-<p align = "left">
-    <a href="https://id.shp.ee/AEdYsik">
-        <img src="https://github.com/RifkiYoga96/RifkiYoga96/blob/main/Stiker.jpg?raw=true" alt="Scurity Sensor Logo" width="100">
-    </a>
-</p>
+
+### 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=RifkiYoga96&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=RifkiYoga96&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RifkiYoga96&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=RifkiYoga96&limit=5&theme=monokai&combine_all_yearly_contributions=true)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=RifkiYoga96&icon=0&color=12)](https://visitcount.itsvg.in)
+
 
